@@ -1,4 +1,4 @@
-# Amazon-prime-Movies-TV-Shows--Power-BI-Dashboard-
+# Amazon-prime-Movies-TV-Shows-Power-BI-Dashboard-
 🎬 Amazon Prime Movies & TV Shows – Power BI Dashboard (Detailed Plan)
 
 1️⃣ KPI Cards (Top Row)
